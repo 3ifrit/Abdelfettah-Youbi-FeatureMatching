@@ -1,0 +1,25 @@
+# Fichiers binaires et objets
+**/bin/
+**/obj/
+
+# Fichiers de l'éditeur
+.vscode/
+*.user
+*.suo
+*.userprefs
+
+# Fichiers de build
+*.exe
+*.dll
+*.pdb
+*.cache
+*.aspnet
+
+# Autres fichiers et dossiers ignorés
+*.log
+*.bak
+*.swp
+*.tmp
+*~
+.DS_Store
+*.idea

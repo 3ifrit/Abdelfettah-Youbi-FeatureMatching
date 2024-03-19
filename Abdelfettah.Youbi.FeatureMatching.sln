@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdelfettah.Youbi.FeatureMatching", "Abdelfettah.Youbi.FeatureMatching\Abdelfettah.Youbi.FeatureMatching.csproj", "{843C9D62-7FA8-4820-8B3B-6B88A75E5666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdelfettah.Youbi.FeatureMatching.Tests", "Abdelfettah.Youbi.FeatureMatching.Tests\Abdelfettah.Youbi.FeatureMatching.Tests.csproj", "{2505CF86-6B6C-4BF8-BC44-462FE19961D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdelfettah.Youbi.FeatureMatching.Console", "Abdelfettah.Youbi.FeatureMatching.Console\Abdelfettah.Youbi.FeatureMatching.Console.csproj", "{58E1C9DC-D92D-4950-83A7-1D84572ED5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdelfettah.Youbi.FeatureMatching.WebApi", "Abdelfettah.Youbi.FeatureMatching.WebApi\Abdelfettah.Youbi.FeatureMatching.WebApi.csproj", "{05FC497B-D64D-42DA-BC4B-1FD7CA2E62F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843C9D62-7FA8-4820-8B3B-6B88A75E5666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843C9D62-7FA8-4820-8B3B-6B88A75E5666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843C9D62-7FA8-4820-8B3B-6B88A75E5666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843C9D62-7FA8-4820-8B3B-6B88A75E5666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2505CF86-6B6C-4BF8-BC44-462FE19961D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2505CF86-6B6C-4BF8-BC44-462FE19961D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2505CF86-6B6C-4BF8-BC44-462FE19961D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2505CF86-6B6C-4BF8-BC44-462FE19961D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E1C9DC-D92D-4950-83A7-1D84572ED5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E1C9DC-D92D-4950-83A7-1D84572ED5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E1C9DC-D92D-4950-83A7-1D84572ED5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E1C9DC-D92D-4950-83A7-1D84572ED5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FC497B-D64D-42DA-BC4B-1FD7CA2E62F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FC497B-D64D-42DA-BC4B-1FD7CA2E62F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FC497B-D64D-42DA-BC4B-1FD7CA2E62F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FC497B-D64D-42DA-BC4B-1FD7CA2E62F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
